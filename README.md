@@ -1,16 +1,11 @@
-### Hi there 👋
+from GitHub.KaramveerPlayZ import Readme
 
-<!--
-**0xBilla/0xBilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class KaramveerPlayZ(Readme):
+    "https://GitHub.com/0xBilla/0xBilla/README.md"
+    def __init__(self):
+      self.name = "Kaala Billa"
+      self.real_name = "Karthik"
+      self.mail = "0xBilla@protonmail.com"
+      self.age = 17
+      self.insta = "itz._billazz"
+      self.location = "Moon"
