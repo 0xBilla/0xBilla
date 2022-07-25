@@ -1,6 +1,6 @@
-from GitHub.KaramveerPlayZ import Readme
+from GitHub.0xBilla import Readme
 
-class KaramveerPlayZ(Readme):
+class 0xBilla(Readme):
     "https://GitHub.com/0xBilla/0xBilla/README.md"
     def __init__(self):
       self.name = "Kaala Billa"
